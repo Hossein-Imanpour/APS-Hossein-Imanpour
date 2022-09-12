@@ -39,23 +39,24 @@
 
 .parent-icon  .shekl span{
     display: none;
-    transition: all linear 0.8s;
     cursor: pointer;
-
+    transition: all ease 1s;
 }
 .parent-icon  .shekl:hover{
     width:90px;
     border-radius: 5%;
-    transition:  all linear 0.8s;
+    transition: all  1s ease;
     cursor: pointer;
 }
 .parent-icon .shekl:hover .child-icon{
     display: inline-block;
     cursor: pointer;
+    transition: all ease 1s;
 }
 .child-icon:hover{
     display: block;
     cursor: pointer;
+        transition: all ease 1s;
 }
 
 .b-style{
