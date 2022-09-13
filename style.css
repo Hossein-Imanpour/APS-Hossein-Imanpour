@@ -43,7 +43,7 @@
     transition: all ease 1s;
 }
 .parent-icon  .shekl:hover{
-    width:90px;
+    width:80px;
     border-radius: 5%;
     transition: all  1s ease;
     cursor: pointer;
